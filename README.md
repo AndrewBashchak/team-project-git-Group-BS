@@ -1,1 +1,1 @@
-# team-project-git-Group-BS
+# team-project-git-Group-BrawlStars
